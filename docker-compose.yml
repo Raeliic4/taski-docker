@@ -1,8 +1,5 @@
 # Файл docker-compose.yml
 
-# Версия docker-compose
-version: '3'
-
 # Перечень volume
 volumes:
   pg_data:
